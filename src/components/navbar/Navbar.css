@@ -1,0 +1,21 @@
+.navbar-menu{
+    background: linear-gradient(90deg, #020024, #090979 35%, #00d4ff);
+}
+
+
+
+.nav-link:hover {
+    transition-duration: 500ms;
+    color:aqua
+}
+
+.nav-link:focus
+.nav-link:active{
+    transition-duration: 0ms;
+        color: aqua;
+}
+
+.hamburger-menu {
+    padding: 0px;
+}
+
